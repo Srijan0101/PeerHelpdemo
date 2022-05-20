@@ -1,0 +1,18 @@
+.posts{
+    flex: 9;
+    position: relative;
+    z-index: 1;
+    height: 160vh;
+}
+
+.homeImg{
+    width: 124%;
+    position: absolute;
+    z-index: 2;
+}
+
+.posthome{
+    position: relative;
+    top: 300px;
+    z-index: 3;
+}
